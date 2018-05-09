@@ -1,1 +1,1 @@
-# Reddit-Rescources
+# Reddit-Resources
